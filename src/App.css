@@ -1,3 +1,107 @@
+
+/* IMAGE.JSX Cred... */
+
+.follow{
+  position: relative;
+  left: 60px;
+}
+
+.h4{
+  padding-top: 20px;
+  float: left;
+}
+
+th{
+  margin-right: 80px;
+}
+
+.tab{
+  text-align: left;
+}
+
+.i{
+  margin: 10px;
+}
+
+.i1{
+  font-weight: bolder;
+}
+
+.i2{
+  margin: 30px;
+  /* po */
+}
+
+.bg{
+  background: url('i.jpg') center no-repeat;
+  height: 620px;
+  background-size: cover;
+ background-attachment: fixed;
+}
+
+.bt {
+  border: 2px solid white;
+  margin: 10px;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 30px;
+  width: 180px;
+}
+
+.bt:hover{
+  background-color: white;
+  color: black;
+  font-weight: 800;
+}
+
+.h{
+  font-family: 'Montserrat', sans-serif;    font-size:50px;
+    font-weight: bolder;
+  color: white;
+}
+
+.h1{
+  font-family: 'Montserrat', sans-serif;  
+    font-size:25px;
+    /* font-weight: bold; */
+  color: white;
+}
+
+.h2{
+  font-family: 'Montserrat', sans-serif;
+  font-weight:800;  
+  font-size:30px;
+  /* font-weight: bold; */
+color: white;
+}
+
+.position{
+  position: relative;
+  right:250px;
+  top: 150px;
+}
+
+.input{
+  background: transparent;
+    border: none;
+  outline: none;
+  text-align: center;
+  color: white;
+}
+
+.position1{
+  position: relative;
+  left: 550px;
+  top: 90px;
+}
+
+.icon{
+  color: white;
+}
+
+/* APP.JSX Cred... */
+
 .App {
   text-align: center;
 }
@@ -9,12 +113,12 @@
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+    /* animation: App-logo-spin infinite 20s linear; */
   }
 }
 
 .App-header {
-  background-color: #282c34;
+  /* background-color: #282c34; */
   min-height: 100vh;
   display: flex;
   flex-direction: column;
