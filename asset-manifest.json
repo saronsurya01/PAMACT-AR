@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/PAMACT-AR/static/css/main.bc5297c0.chunk.css",
+    "main.js": "/PAMACT-AR/static/js/main.def0318e.chunk.js",
+    "main.js.map": "/PAMACT-AR/static/js/main.def0318e.chunk.js.map",
+    "runtime-main.js": "/PAMACT-AR/static/js/runtime-main.5c3b6caf.js",
+    "runtime-main.js.map": "/PAMACT-AR/static/js/runtime-main.5c3b6caf.js.map",
+    "static/js/2.e579ef08.chunk.js": "/PAMACT-AR/static/js/2.e579ef08.chunk.js",
+    "static/js/2.e579ef08.chunk.js.map": "/PAMACT-AR/static/js/2.e579ef08.chunk.js.map",
+    "index.html": "/PAMACT-AR/index.html",
+    "static/css/main.bc5297c0.chunk.css.map": "/PAMACT-AR/static/css/main.bc5297c0.chunk.css.map",
+    "static/js/2.e579ef08.chunk.js.LICENSE.txt": "/PAMACT-AR/static/js/2.e579ef08.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/PAMACT-AR/static/media/i.afa00719.jpg",
+    "static/media/logo.6ce24c58.svg": "/PAMACT-AR/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c3b6caf.js",
+    "static/js/2.e579ef08.chunk.js",
+    "static/css/main.bc5297c0.chunk.css",
+    "static/js/main.def0318e.chunk.js"
+  ]
+}
